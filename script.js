@@ -1,1 +1,3 @@
-console.log("Mini proyecto cargado");
+document.getElementById("miBoton").addEventListener("click", function() {
+    alert("¡Botón clickeado!");
+});
